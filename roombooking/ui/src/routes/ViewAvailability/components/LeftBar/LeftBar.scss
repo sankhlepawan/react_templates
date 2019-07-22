@@ -1,0 +1,12 @@
+$border1: #ccc;
+$onepx: 1px;
+$full: 100vh;
+$space1015100: 10px 15px 10px 0px;;
+
+.right-border {
+    border-right:$onepx solid $border1;
+}
+
+.main-navbar {
+    padding: $space1015100; 
+}

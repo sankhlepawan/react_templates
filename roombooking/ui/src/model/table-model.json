@@ -1,0 +1,22 @@
+{
+     "DR1":[
+          {
+               "startTime": "8:30 AM",
+               "endTime": "9:30 AM"
+          },
+          {
+               "startTime": "4:00 PM",
+               "endTime": "6:30 PM"
+          }
+          
+     ],
+     
+     "DR3":[
+          {
+               "startTime": "5:30 PM",
+               "endTime": "6:00 PM"
+          }
+          
+          
+     ]
+}

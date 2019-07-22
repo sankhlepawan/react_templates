@@ -1,0 +1,33 @@
+.table {
+  width: 40%;
+  background-color: #fff;
+  border: 1px solid black;
+  border-radius: 6px;
+  padding-top: 50px;
+  text-align: center
+}
+
+.view-full table {
+  margin: 20px 0 0 0 !important;
+}
+
+.view-full table tr td {
+  height: 50px !important;
+  vertical-align: middle;
+  padding: 0px !important;
+}
+
+.room-col {
+  float: left;
+  width: 130px !important;
+}
+
+.view-table {
+  float: left;
+  width: calc(100vw - 495px);
+  overflow-x: scroll
+}
+
+.mt-15 {
+  margin-top: 15px;
+}
